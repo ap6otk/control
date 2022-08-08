@@ -1,0 +1,6 @@
+{
+"id": "adm",
+"password": "adminpassword",
+"park": "test",
+"isAdmin": "true"
+}
